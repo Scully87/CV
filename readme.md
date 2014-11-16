@@ -11,9 +11,10 @@ Code Examples
 -------------
 | [Pokemon-Game](http://github.com/Scully87/pokemon-game) | [TIMstagram](http://github.com/scully87/TIMstagram) | [Git Racer](https://github.com/zrasool88/gitRacer) |
 
-[Makers Academy](http://makersacademy.com)
+Makers Academy
 --------------
-Curently studying in the September 14' cohort (completion date 05/12/14). Makers Academy is a highly selective 12 week boot camp in web development
+[Makers Academy](http://makersacademy.com) is a highly selective 12 week boot camp in web development
+Curently studying in the September 14' cohort (completion date 05/12/14).
 
 My Experience
 --------------
