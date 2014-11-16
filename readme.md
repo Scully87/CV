@@ -2,14 +2,14 @@ Tim Scully
 ========
 
 - Email: [Scully87.ts@gmail.com](Scully87.ts@googlemail.com)
-- linkedIn: [http://linkedin.com/in/Scully87](http://linkedin.com/in/Scully87)
+- linkedIn: [https://www.linkedin.com/pub/tim-scully/a7/31b/b63](https://www.linkedin.com/pub/tim-scully/a7/31b/b63)
 - Github: [http://github.com/Scully87](http://github.com/scully87)
 
 I am looking to secure a junior developer role with no specific preferences of location.
 
 Code Examples
 -------------
-| [Pokemon-Game](http://github.com/Scull87/pokemon-game) | [TIMstagram](http://github.com/scully87/TIMstagram) | [Git Racer](https://github.com/zrasool88/gitRacer) |
+| [Pokemon-Game](http://github.com/Scully87/pokemon-game) | [TIMstagram](http://github.com/scully87/TIMstagram) | [Git Racer](https://github.com/zrasool88/gitRacer) |
 
 [Makers Academy](http://makersacademy.com)
 --------------
