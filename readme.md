@@ -13,8 +13,8 @@ Code Examples
 
 Makers Academy
 --------------
-[Makers Academy](http://makersacademy.com) is a highly selective 12 week boot camp in web development
-Curently studying in the September 14' cohort (completion date 05/12/14).
+[Makers Academy](http://makersacademy.com) is a highly selective 12 week boot camp in web development.
+I am curently studying in the September 14' cohort (completion date 05/12/14).
 
 My Experience
 --------------
